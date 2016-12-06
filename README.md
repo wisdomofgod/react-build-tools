@@ -2,7 +2,7 @@ react-build-tools
 #####
 
 ###install
-	`npm install -g react-build`
+	`npm install -g react-build-tools`
 
 ###init project
 	`reactB init`
