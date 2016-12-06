@@ -1,0 +1,32 @@
+{
+  "name": "react-build-tools",
+  "version": "0.1.2",
+  "description": "react-build-tools this is a react build tool",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wisdomofgod/react-build.git"
+  },
+  "keywords": [
+    "react-build",
+    "tools"
+  ],
+  "author": "wisdomofgod",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wisdomofgod/react-build/issues"
+  },
+  "bin": {
+    "reactB": "bin/reactbuild"
+  },
+  "homepage": "https://github.com/wisdomofgod/react-build#readme",
+  "devDependencies": {
+    "chalk": "^1.1.3",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.9.0"
+  }
+}
